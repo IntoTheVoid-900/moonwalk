@@ -1,0 +1,95 @@
+navbar_entries:
+  - title: about
+    url: about
+
+project_entries:
+  - title: Should you get a PC?
+    url: articles/should-i-buy
+    desc: If you are still on the fence about getting a PC, read this.
+
+  - title: What operating system should you use?
+    url: articles/os
+    desc: Windows, macOS or Linux?
+
+  - title: Buying your PC
+    url: articles/buy
+    desc: Purchasing a computer.
+
+  - title: Tweaking your system
+    url: articles/setup
+    desc: Getting your apps and making your PC yours.
+
+  - title: Advanced tweaks
+    url: articles/tweak
+    desc: For those who want better privacy, or just more control of their system.
+    highlight: OPTIONAL
+
+  - title: Getting games
+    url: articles/games
+    desc: Where to get games, recommended games, etc.
+
+  - title: What next?
+    url: articles/next
+    desc: What to do next
+
+old_project_entries:
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
+
+  - title: Cookie
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
+
+  - title: Moonwalk
+    url: https://github.com/abhinavs/moonwalk
+    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+
+footer_entries:
+  - title: a pretty sick placeholder.
+    url: https://www.abhinav.co
+
+  - title: my github
+    url: https://github.com/Dispatch9001
+
+  - title: placeholder the second
+    url: feed.xml
+
+misc_entries:
+  - title: Test
+    url: overview-post
+
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: and you can add data in _data/home.yml
+    url: false
+
+  - title: Blog posts
+    post_list: false
+    url: false
+
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
+
+      - title: this list is scalable and can be nested
+        url: false
+        entries:
+          - title: this is nested inside a nested list
+            url: false
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
+            url: false
+
+
